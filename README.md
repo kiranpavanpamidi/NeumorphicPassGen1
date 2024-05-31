@@ -11,5 +11,6 @@ Overall, the document showcases an intuitive and user-friendly password generati
 
 Execution
 
-open index.html (direct execution)
+open index.html (direct execution).
+
 to edit >> right click index.html >> open with Notepad // open with VsCode.
